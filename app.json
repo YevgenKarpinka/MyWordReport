@@ -1,0 +1,26 @@
+{
+  "id": "014b595f-4504-4b4b-9473-c87ae8636496",
+  "name": "My Word Report",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://MyWordReport.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
